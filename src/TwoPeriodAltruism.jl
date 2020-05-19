@@ -1,5 +1,5 @@
 module TwoPeriodAltruism
 
-greet() = print("Hello World!")
+include("structures.jl")
 
 end # module
